@@ -2,7 +2,8 @@
 
 > Legacy admin dashboard build toolkit based on Gulp and Bootstrap.
 
-![License](https://img.shields.io/github/changhorizon/meteorite-gulp)
+![License](https://img.shields.io/github/license/changhorizon/adminify-gulp)
+![Last Commit](https://img.shields.io/github/last-commit/changhorizon/adminify-gulp)
 
 **Adminify Gulp** is a legacy admin dashboard build toolkit based on **Gulp.js** and **Bootstrap**.
 It was designed to simplify the development workflow of traditional admin systems by providing automated tasks, customizable build pipelines, and a streamlined front-end workflow.
