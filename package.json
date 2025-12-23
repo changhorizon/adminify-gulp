@@ -1,5 +1,5 @@
 {
-  "name": "gulp-adminify",
+  "name": "adminify-gulp",
   "version": "1.0.0",
   "description": "A backend project framework for quick start, built with Gulp and Bootstrap",
   "keywords": [
@@ -8,10 +8,10 @@
     "bootstrap"
   ],
   "license": "MIT",
-  "author": "Harper Jang <harper.jang@outlook.com>",
+  "author": "Harper Chang <harper.chang@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hizpark/gulp-adminify.git"
+    "url": "git+https://github.com/changhorizon/adminify-gulp.git"
   },
   "scripts": {
     "check": "node env-check.js",
